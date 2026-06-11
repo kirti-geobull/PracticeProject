@@ -10,8 +10,8 @@ class ProfilePage extends StatefulWidget {
 }
 
 class _ProfilePageState extends State<ProfilePage> {
-  String name = "Aishwarya Shelke";
-  String role = "Flutter Developer";
+  String name = "Aishwarya ";
+  String role = "Developer";
 
   List<String> skills = [
     "Flutter",
